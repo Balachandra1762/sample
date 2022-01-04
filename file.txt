@@ -1,0 +1,2 @@
+s3 is a safe place to save your files
+it is object based storage
